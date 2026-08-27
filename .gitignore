@@ -1,0 +1,17 @@
+# Java compiled class files
+*.class
+bin/
+app/bin/
+
+# Package / build output
+*.jar
+*.war
+*.ear
+
+# System / OS files
+.DS_Store
+Thumbs.db
+
+# Temporary & Log files
+*.tmp
+*.log
